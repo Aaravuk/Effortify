@@ -31,6 +31,7 @@ A fully functional **Project & Task Management Tool** built using **Python**. It
    You don’t need to do this manually. The database will be initialized automatically the first time you run the app.
 
 ## FILE STRUCTURE:
+```
 task_tool/
 ├── backend/            # Backend logic: database & core functions
 │   ├── core.py         # Functions for project and task management
@@ -44,8 +45,8 @@ task_tool/
 ├── gui/                # Tkinter Desktop GUI
 │   └── app.py          # Tkinter-based app for desktop interface
 ├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation (you are here!)
-
+└── README.md           # Project documentation
+```
 ## Database Structure:
 The application uses SQLite to store project and task data.
 
