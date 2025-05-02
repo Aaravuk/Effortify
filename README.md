@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b9a2f92a-39fc-4df1-8c92-8952e42421ee)# Project and Task Management Tool
+# Project and Task Management Tool
 
 A fully functional **Project & Task Management Tool** built using **Python**. It includes a **Terminal TUI**, a **Web App (Flask)**, and a **Desktop GUI (Tkinter)** to manage projects and tasks seamlessly.
 
