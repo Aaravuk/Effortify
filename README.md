@@ -73,4 +73,4 @@ Feel free to fork the repository, make improvements, or fix bugs. To contribute:
 2. Tkinter for the desktop GUI.
 
 3. SQLite for the database.
-`
+
